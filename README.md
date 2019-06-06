@@ -8,6 +8,9 @@ best practice for development environment in WSL
 * https://cmder.net/
 * https://github.com/mintty/wsltty
 
+# Shell
+* https://github.com/robbyrussell/oh-my-zsh
+
 # Text Editor
 * https://www.sublimetext.com/3
 
