@@ -17,3 +17,6 @@ best practice for development environment in WSL
 # Fonts
 * https://github.com/ryanoasis/nerd-fonts/releases
 * https://github.com/tonsky/FiraCode
+
+# Hardware
+* DELL P2415Q -- retina feel monitor
